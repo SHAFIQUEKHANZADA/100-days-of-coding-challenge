@@ -5,7 +5,7 @@ for (let i = 1; i <= 5; i++) {
 
 //Q:137
 try {
-    throw new Error("Time zaya ho raha h or kch nh")
+    throw new Error("I love typescript")
   } catch (error) {
     console.log(error.message)
 }
